@@ -66,3 +66,18 @@ Verder nodig in de repo:
 - `gh` ingelogd, voor de pull request en voor het nummeren van nieuwe werkpakketten.
 
 Reken op een halve dag samen instellen voordat de eerste werkpakketrun zinvol is.
+
+## Achtergrond
+
+De uitleg bij deze setup staat in de kennisbank van Troop. Daar heb je toegang tot de
+Notion-werkruimte van Troop voor nodig.
+
+- [Kladsetup: de Troop AI-pipeline installeren](https://app.notion.com/p/40dce6ce7bb28188b884c9ab995c7bf2)
+  is deze README in verhaalvorm, met wat elke plugin doet.
+- [Werkpakketten: /wp en /wp-run](https://app.notion.com/p/40bce6ce7bb281678cd2e9d1230cef4d)
+  legt uit waarom er precies een akkoordmoment zit waar het zit, en wat er in de praktijk
+  misging toen dat anders was.
+- [De constitution: harde regels per repo](https://app.notion.com/p/40bce6ce7bb281a2bb4be233b2c95b04)
+  beschrijft hoe je regel 1 tot 3 kiest en welk deel je mechanisch afdwingt.
+- [/pipeline-dev: dev pipeline skill](https://app.notion.com/p/40bce6ce7bb281e19234f8dce7191250)
+  beschrijft de twee skills die los van de werkpakketflow werken.
