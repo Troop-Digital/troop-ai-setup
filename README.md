@@ -35,6 +35,7 @@ Of per project, alleen voor deze repo:
 
 ```
 mkdir -p .claude/skills && cp -R skills/* .claude/skills/
+cp .claude/constitution.md <jouw-repo>/.claude/constitution.md
 ```
 
 | Skill | Wat het doet | Per repo instellen |
@@ -59,7 +60,7 @@ mkdir -p .claude/skills && cp -R skills/* .claude/skills/
 
 Verder nodig in de repo:
 
-- `.claude/constitution.md` met de harde regels. Zie `templates/constitution.md`.
+- `.claude/constitution.md` met de harde regels. Die staat in deze repo al op de juiste plek; kopieer hem mee en vul regel 1 tot 3 in.
 - `CLAUDE.md` met conventies, architectuur, bouwvolgorde en valkuilen.
 - In `.gitignore`: `.claude/worktrees/` en `.claude/wp-logs/`. Die blijven lokaal.
 - `gh` ingelogd, voor de pull request en voor het nummeren van nieuwe werkpakketten.
