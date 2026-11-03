@@ -65,8 +65,6 @@ Verder nodig in de repo:
 - In `.gitignore`: `.claude/worktrees/` en `.claude/wp-logs/`. Die blijven lokaal.
 - `gh` ingelogd, voor de pull request en voor het nummeren van nieuwe werkpakketten.
 
-Reken op een halve dag samen instellen voordat de eerste werkpakketrun zinvol is.
-
 ## Achtergrond
 
 De uitleg bij deze setup staat in de kennisbank van Troop. Daar heb je toegang tot de
